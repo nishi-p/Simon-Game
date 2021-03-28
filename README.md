@@ -6,8 +6,8 @@ How to play:
 1. Computer highlights a color on screen with sound.  
 2. User clicks on the same color.  
 3. Computer highlights another color.  
-4. User has to repeat the pattern or sequence of colors that were highlighted from the beginning. If the user fails to follow the sequence, game is restarted.  
-5. Successfully following the pattern takes the user to a new level. With each new level, the sequence increases.  
+4. User has to repeat the pattern or sequence of colors that were highlighted from the beginning. If the user fails to follow the sequence, game restarts.  
+5. Successfully following the pattern takes the user to a new level. With each new level, the length of the sequence increases.  
 
 Example:
 
