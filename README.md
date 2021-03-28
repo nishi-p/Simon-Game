@@ -5,30 +5,30 @@ https://en.wikipedia.org/wiki/Simon_(game)
 This project is hosted at https://nishi-p.github.io/Simon-Game/.
 
 How to play:  
-1. Computer highlights a color on screen with sound.  
+1. Browser highlights a color on screen with sound.  
 2. User clicks on the same color.  
-3. Computer highlights another color.  
+3. Browser highlights another color.  
 4. User has to repeat the pattern or sequence of colors that were highlighted from the beginning. If the user fails to follow the sequence, game restarts.  
 5. Successfully following the pattern takes the user to a new level. With each new level, the length of the sequence increases.  
 
 Example:
 
 Level 1  
-Computer --> ["red"]  
+Browser --> ["red"]  
 User --> ["red"]  
 Successful!  
 
 Level 2  
-Computer --> ["blue"]  
+Browser --> ["blue"]  
 User --> ["red", "blue"]  
 Successful!  
 
 Level 3  
-Computer --> ["red"]  
+Browser --> ["red"]  
 User --> ["red", "blue", "red"]  
 Successful!  
 
 Level 4  
-Computer --> ["green"]  
+Browser --> ["green"]  
 User --> ["red", "blue", "red", "yellow"]  
 Game Over! Start Over.
