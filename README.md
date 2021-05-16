@@ -1,8 +1,14 @@
 # Simon-Game
-An online version of "Simon" game developed with JavaScript and jQuery library. (Personal project)  
+
+### Task:
+An online version of "Simon" game.
 https://en.wikipedia.org/wiki/Simon_(game)
 
-This project is hosted at https://nishi-p.github.io/Simon-Game/.
+### Learning:
+JavaScript and jQuery library.
+
+### Working:
+Hosted at https://nishi-p.github.io/Simon-Game/.
 
 How to play:  
 1. Browser highlights a color on screen with sound.  
